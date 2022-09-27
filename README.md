@@ -5,13 +5,6 @@ Ascii-reverse consists on reversing the process, converting the graphic represen
 The argument will be a flag, --reverse=<fileName>, in which --reverse is the flag and <fileName> is the file name. The program must then print this string in normal text.
 
 
-#### ___USAGE:___
-
-```
-git clone git@git.01.alem.school:AidanaErbolatova/ascii-art-reverse.git
-go run . --reverse=example.txt
-```
-
 ### Author
 
 [AidanaErbolatova](https://01.alem.school/git/AidanaErbolatova) 
