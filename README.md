@@ -14,4 +14,4 @@ go run . --reverse=example.txt
 
 ### Author
 
-[muratovdias](https://01.alem.school/git/muratovdias) && [AidanaErbolatova](https://01.alem.school/git/AidanaErbolatova) 
+[AidanaErbolatova](https://01.alem.school/git/AidanaErbolatova) 
